@@ -3,30 +3,29 @@
     <div class="container">
       <!-- Content of the body goes here -->
       <h1>Projects</h1>
-<!--      <div class="">-->
 
           <div class="image-gallery">
 
             <div class="image-gallery-text-container">
-              <img class="image" src="../../assets/project-a.jpg" alt="Image">
+              <img class="image" src="../../assets/image/project-a.jpg" alt="Image">
               <div class="text-container">
                 <p class="text">Project A</p>
               </div>
             </div>
             <div class="image-gallery-text-container">
-              <img class="image" src="../../assets/project-b.jpg" alt="Image">
+              <img class="image" src="../../assets/image/project-b.jpg" alt="Image">
               <div class="text-container">
                 <p class="text">Project B</p>
               </div>
             </div>
             <div class="image-gallery-text-container">
-              <img class="image" src="../../assets/project-c.jpg" alt="Image">
+              <img class="image" src="../../assets/image/project-c.jpg" alt="Image">
               <div class="text-container">
                 <p class="text">Project C</p>
               </div>
             </div>
             <div class="image-gallery-text-container">
-              <img class="image" src="../../assets/project-d.jpg" alt="Image">
+              <img class="image" src="../../assets/image/project-d.jpg" alt="Image">
               <div class="text-container">
                 <p class="text">Project D</p>
               </div>
@@ -38,16 +37,7 @@
 
 </template>
 
-<!--script>
-export default {
-  name: 'ProjectList',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
-}
-</script-->
+
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 

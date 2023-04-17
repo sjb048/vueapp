@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Topbar from './projects/Topbar.vue';
+import Topbar from './projects/TopBar.vue';
 import Body from './projects/Body.vue';
 export default {
   components: {

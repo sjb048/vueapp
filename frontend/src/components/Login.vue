@@ -6,20 +6,20 @@
         <div class="left-section">
           <div class="image-gallery">
 
-            <img src="../assets/img1.png" alt="Image 1">
-            <img src="../assets/project-a.jpg" alt="Image 2">
+            <img src="../assets/image/img1.png" alt="Image 1">
+            <img src="../assets/image/project-a.jpg" alt="Image 2">
           </div>
         </div>
         <div class="middle-section">
           <div class="image-gallery">
-            <img src="../assets/img3.png" alt="Image 3">
-            <img src="../assets/project-b.jpg" alt="Image 4">
+            <img src="../assets/image/img3.png" alt="Image 3">
+            <img src="../assets/image/project-b.jpg" alt="Image 4">
           </div>
         </div>
         <div class="right-section">
           <div class="image-gallery">
-            <img src="../assets/img6.png" alt="Image 5">
-            <img src="../assets/img6.png" alt="Image 6">
+            <img src="../assets/image/img6.png" alt="Image 5">
+            <img src="../assets/image/img6.png" alt="Image 6">
           </div>
         </div>
       </div>
