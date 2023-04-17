@@ -1,12 +1,12 @@
 .DS_Store
 frontend/node_modules/
-frontend//dist/
+frontend/dist/
 frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
-frontend//test/unit/coverage/
-frontend//test/e2e/reports/
-frontend/selenium-debug.log
+frontend/test/unit/coverage/
+frontend/test/e2e/reports/
+selenium-debug.log
 
 # Editor directories and files
 .idea
